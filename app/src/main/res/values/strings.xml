@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SportNews</string>
+
+    <string name="drawer_item_news">All News</string>
+    <string name="drawer_item_hockey">Hockey</string>
+    <string name="drawer_item_footbal">Football</string>
+    <string name="drawer_item_basketball">Basketball</string>
+    <string name="drawer_item_volleyball">Volleyball</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Refresh">refresh</string>
+    <string name="loading_data">Loading...</string>
+
+</resources>
