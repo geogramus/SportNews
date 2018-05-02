@@ -87,6 +87,10 @@ public class MainFragment extends MvpAppCompatFragment implements MainFragmentVi
             if (getInternetConnection()) {
                 presenter.getItems(newsType);
                 showProgressBar();
+
+
+
+
             } else {
                 errorLoading("Load Error, check internet connection  and refresh.");
             }
